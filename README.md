@@ -1,5 +1,7 @@
 # [GraFT: Spatial-as-Refinement for Spatio-Temporal Forecasting](https://vpham47.github.io/files/Spatial_as_refinement_Preprint%20%281%29.pdf)
 
+### A bridge between the temporal and spatio-temporal forecasting communities
+
 Official implementation of *Spatial-as-Refinement: Gated Graph Operators over Strong Temporal Predictors for Scalable Spatio-Temporal Forecasting*.
 
 <p align="center">
